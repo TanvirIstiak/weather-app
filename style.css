@@ -1,0 +1,15 @@
+.container ul{
+    border: 1px solid red;
+    width: 50%;
+    height: 100%;
+    background-color: aquamarine;
+    list-style: none;
+    padding: 10px 20px;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
